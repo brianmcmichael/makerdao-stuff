@@ -1,6 +1,6 @@
 # Verification of VoteDelegate Contracts
 
-To become a Recognized or Shadow Delegate for MakerDAO, a delegate must create a new VoteDelegate contract.
+To become a Recognized or Shadow Delegate for MakerDAO, a delegate must create a new VoteDelegate contract. You can do so via the [account](https://vote.makerdao.com/account) user interface at vote.makerdao.com.
 
 These contracts are created on-chain, and if done via the VoteDelegateFactory they are not verified by default on Etherscan.
 
